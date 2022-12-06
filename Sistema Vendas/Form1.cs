@@ -39,6 +39,7 @@ namespace Sistema_Vendas
         private void btnClientes_Click(object sender, EventArgs e)
         {
             AbrirFomrNoPainel<cliente>();
+            //comentario
         }
 
         private void label1_Click(object sender, EventArgs e)
